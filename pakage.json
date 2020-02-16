@@ -1,0 +1,13 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "page-model.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "testcafe chrome"
+  },
+  "author": "",
+  "license": "ISC"
+}
